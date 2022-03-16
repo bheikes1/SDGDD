@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.15)  16 MAR 2022 13:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.15)  16 MAR 2022 13:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -124,23 +124,25 @@ Package pdftex.def Info: ebr.png  used on input line 3.
 
 
 
+] [2
+
 ] (./main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 2.
- [2
+ [3
 
 ])
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
- [3]
+ [4]
 \openout2 = `01-incident-tab.aux'.
 
  (./01-incident-tab.tex
 Chapter 1.
-[4
+[5
 
 
 ]
@@ -163,15 +165,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--73
 \OT1/cmr/m/n/10 Re-
  []
 
-[5]) [6]
+[6]) [7]
 Overfull \vbox (20.70778pt too high) has occurred while \output is active []
 
- [7]
+ [8]
 \openout2 = `02-patient-tab.aux'.
 
  (./02-patient-tab.tex
 Chapter 2.
-) [8
+) [9
 
 
 
@@ -180,16 +182,16 @@ Chapter 2.
 Here is how much of TeX's memory you used:
  1616 strings out of 478276
  27813 string characters out of 5850483
- 328967 words of memory out of 5000000
+ 328970 words of memory out of 5000000
  19828 multiletter control sequences out of 15000+600000
  472595 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,8n,62p,236b,231s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on main.pdf (9 pages, 941862 bytes).
+Output written on main.pdf (10 pages, 942847 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
+ 60 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
