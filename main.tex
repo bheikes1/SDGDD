@@ -1,13 +1,15 @@
 \documentclass{report}
 \usepackage{array}
+\usepackage{enumitem}
 \usepackage[utf8]{inputenc}
 \usepackage[letterpaper, portrait, margin=1in]{geometry}
 \usepackage{graphicx}
 \usepackage{multicol}
 \usepackage{multirow}
 \usepackage{tabularx}
+\usepackage{titlesec}
 
-\begin{document}    
+\begin{document}
 
 \include{00-titlepage/00-titlepage.tex}
 
@@ -16,6 +18,63 @@ The purpose of this document is to standardize the Electronic Healthcare Record 
 
 \chapter*{Abbreviations and Definitions}
 EHR - Electronic Healthcare Record - A document containing all information relevant to a patient encounter and subsequent treatment provided.
+
+\chapter*{How to Read a Title Block}
+
+The following is an example of the title block used throughout the data dictionary portion of this document.  Understanding how to read the title block is necessary for this document to be of use to the reader. The information listed below the title block is the key to understanding what all of the possible values mean.
+
+\begin{center}
+    \begin{tabular}{|p{0.30\linewidth}|p{0.40\linewidth}|p{0.25\linewidth}|}
+        \hline
+            NEMSIS Usage: Required & NEMSIS Dataset Level: National,State & NEMSIS Attributes: N,L \\ 
+        \hline
+            \multicolumn{1}{|l|}{NEMSIS Dataset Section:} & \multicolumn{2}{|c|}{eResponse.03 - Incident Number} \\
+        \hline
+            Department Usage: Required & Billing: Required & \\ 
+        \hline
+            AAA: N/A & AHA: N/A & \\ 
+        \hline
+    \end{tabular}
+\end{center}
+
+NEMSIS Usage:
+\begin{itemize}[nosep,leftmargin=0.5in]
+    \item[Mandatory] - NEMSIS Requires this data field to be answered, Not Values and Nillables not allowed
+    \item Required - NEMSIS requires this data field to be answered, Not values and Nillables are allowed
+    \item Recommended - NEMSIS recommends this data field be answered, but not required
+    \item Optional - NEMSIS does not required or recommend this data field to be answered
+\end{itemize}
+
+NEMSIS Dataset Level:
+\begin{itemize}[nosep,leftmargin=0.5in,partopsep=0.25in]
+    \item National - This data field is used at the National Level
+    \item State - This data field is used at the State Level 
+\end{itemize}
+
+NEMSIS Attributes:
+\begin{itemize}[nosep,leftmargin=0.5in]
+    \item N - Not Values
+    \item P - Pertinent Negatives
+    \item L - Nillable
+\end{itemize}
+
+NEMSIS Dataset Section:
+\begin{itemize}[nosep,leftmargin=0.5in]
+    \item The section, of the 26 standard sections, a data field belongs to
+\end{itemize}
+
+Department Usage/Billing Usage:
+\begin{itemize}[nosep,leftmargin=0.5in]
+    \item Required - Required for proper documentation
+    \item Recommended - Recommended for thorough documentation
+    \item \textbf{Not Used} - Not used by the Department or Billing
+\end{itemize}
+
+AAA/AHA:
+\begin{itemize}[nosep,leftmargin=0.5in]
+    \item Recommended - Recommended to be documented by national standards bodies
+    \item N/A - No current recommendation
+\end{itemize}
 
 \tableofcontents
 

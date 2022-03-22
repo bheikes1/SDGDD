@@ -1,79 +1,79 @@
-\contentsline {chapter}{\numberline {1}Incident Tab}{5}{}%
-\contentsline {section}{\numberline {1.1}Reponse}{5}{}%
-\contentsline {subsection}{\numberline {1.1.1}Incident Number}{5}{}%
-\contentsline {subsection}{\numberline {1.1.2}Run Number}{5}{}%
-\contentsline {subsection}{\numberline {1.1.3}Run Type}{5}{}%
-\contentsline {subsection}{\numberline {1.1.4}Response Mode to Scene}{5}{}%
-\contentsline {subsection}{\numberline {1.1.5}Station}{5}{}%
-\contentsline {subsection}{\numberline {1.1.6}Shift}{6}{}%
-\contentsline {subsection}{\numberline {1.1.7}Unit}{6}{}%
-\contentsline {subsection}{\numberline {1.1.8}Vehicle}{6}{}%
-\contentsline {subsection}{\numberline {1.1.9}EMD Complaint}{6}{}%
-\contentsline {subsection}{\numberline {1.1.10}EMD Card Number}{6}{}%
-\contentsline {subsection}{\numberline {1.1.11}Requested By}{6}{}%
-\contentsline {section}{\numberline {1.2}Scene}{6}{}%
-\contentsline {subsection}{\numberline {1.2.1}Predefined\slash Address}{6}{}%
-\contentsline {subsection}{\numberline {1.2.2}Location Type}{7}{}%
-\contentsline {subsection}{\numberline {1.2.3}Address}{7}{}%
-\contentsline {subsection}{\numberline {1.2.4}Additional Address}{7}{}%
-\contentsline {subsection}{\numberline {1.2.5}Apt\slash Suite\slash Room}{7}{}%
-\contentsline {subsection}{\numberline {1.2.6}Latitude\slash Longitude}{7}{}%
-\contentsline {subsection}{\numberline {1.2.7}Zone}{7}{}%
-\contentsline {subsection}{\numberline {1.2.8}Mass Casualty}{7}{}%
-\contentsline {section}{\numberline {1.3}Personnel}{8}{}%
-\contentsline {subsection}{\numberline {1.3.1}Lead\slash Driver\slash Other}{8}{}%
-\contentsline {subsection}{\numberline {1.3.2}Personal Protective Equipment}{8}{}%
-\contentsline {subsection}{\numberline {1.3.3}Actionable Buttons}{8}{}%
-\contentsline {section}{\numberline {1.4}Disposition}{8}{}%
-\contentsline {subsection}{\numberline {1.4.1}Dispositions}{8}{}%
-\contentsline {subsection}{\numberline {1.4.2}Transport Due To}{8}{}%
-\contentsline {subsection}{\numberline {1.4.3}Alternative Disposition Offered?}{8}{}%
-\contentsline {section}{\numberline {1.5}Destination}{8}{}%
-\contentsline {subsection}{\numberline {1.5.1}Destination Type}{9}{}%
-\contentsline {subsection}{\numberline {1.5.2}Destination Name}{9}{}%
-\contentsline {subsection}{\numberline {1.5.3}Address}{9}{}%
-\contentsline {subsection}{\numberline {1.5.4}Apt\slash Suite\slash Room}{9}{}%
-\contentsline {subsection}{\numberline {1.5.5}Zone}{9}{}%
-\contentsline {subsection}{\numberline {1.5.6}Chart Number}{9}{}%
-\contentsline {subsection}{\numberline {1.5.7}Patient Number}{9}{}%
-\contentsline {subsection}{\numberline {1.5.8}Actionable Buttons}{9}{}%
-\contentsline {section}{\numberline {1.6}Times}{10}{}%
-\contentsline {subsection}{\numberline {1.6.1}PSAP Call}{10}{}%
-\contentsline {subsection}{\numberline {1.6.2}Dispatch Notified}{10}{}%
-\contentsline {subsection}{\numberline {1.6.3}Call Received}{10}{}%
-\contentsline {subsection}{\numberline {1.6.4}Dispatched}{10}{}%
-\contentsline {subsection}{\numberline {1.6.5}En Route}{10}{}%
-\contentsline {subsection}{\numberline {1.6.6}Initial Responder on Scene}{10}{}%
-\contentsline {subsection}{\numberline {1.6.7}On Scene}{10}{}%
-\contentsline {subsection}{\numberline {1.6.8}At Patient}{11}{}%
-\contentsline {subsection}{\numberline {1.6.9}Depart Scene}{11}{}%
-\contentsline {subsection}{\numberline {1.6.10}At Destination}{11}{}%
-\contentsline {subsection}{\numberline {1.6.11}Call Closed}{11}{}%
-\contentsline {subsection}{\numberline {1.6.12}Dispatch Delays}{11}{}%
-\contentsline {subsection}{\numberline {1.6.13}Response Delays}{11}{}%
-\contentsline {subsection}{\numberline {1.6.14}Scene Delays}{11}{}%
-\contentsline {subsection}{\numberline {1.6.15}Transport Delays}{11}{}%
-\contentsline {subsection}{\numberline {1.6.16}Turn Around Delays}{12}{}%
-\contentsline {section}{\numberline {1.7}Mileage}{12}{}%
-\contentsline {subsection}{\numberline {1.7.1}Scene}{12}{}%
-\contentsline {subsection}{\numberline {1.7.2}Destination}{12}{}%
-\contentsline {subsection}{\numberline {1.7.3}Actionable Buttons}{12}{}%
-\contentsline {section}{\numberline {1.8}Additional Agencies}{12}{}%
-\contentsline {subsection}{\numberline {1.8.1}First Agency to Provide Patient Care}{12}{}%
-\contentsline {subsection}{\numberline {1.8.2}Additional Responders}{12}{}%
-\contentsline {subsection}{\numberline {1.8.3}Additional Comments}{12}{}%
-\contentsline {chapter}{\numberline {2}Patient Tab}{13}{}%
-\contentsline {section}{\numberline {2.1}Demographics}{13}{}%
-\contentsline {subsection}{\numberline {2.1.1}First Name}{13}{}%
-\contentsline {subsection}{\numberline {2.1.2}Middle Name}{13}{}%
-\contentsline {subsection}{\numberline {2.1.3}Last Name}{13}{}%
-\contentsline {subsection}{\numberline {2.1.4}Social Security Number}{13}{}%
-\contentsline {subsection}{\numberline {2.1.5}Gender}{13}{}%
-\contentsline {subsection}{\numberline {2.1.6}Date of Birth}{13}{}%
-\contentsline {subsection}{\numberline {2.1.7}Age}{13}{}%
-\contentsline {subsection}{\numberline {2.1.8}Weight}{13}{}%
-\contentsline {subsection}{\numberline {2.1.9}Race}{13}{}%
-\contentsline {subsection}{\numberline {2.1.10}Ethnicity}{13}{}%
-\contentsline {subsection}{\numberline {2.1.11}Actionable Buttons}{13}{}%
-\contentsline {section}{\numberline {2.2}Contact}{13}{}%
-\contentsline {subsection}{\numberline {2.2.1}}{13}{}%
+\contentsline {chapter}{\numberline {1}Incident Tab}{6}{}%
+\contentsline {section}{\numberline {1.1}Reponse}{6}{}%
+\contentsline {subsection}{\numberline {1.1.1}Incident Number}{6}{}%
+\contentsline {subsection}{\numberline {1.1.2}Run Number}{6}{}%
+\contentsline {subsection}{\numberline {1.1.3}Run Type}{6}{}%
+\contentsline {subsection}{\numberline {1.1.4}Response Mode to Scene}{6}{}%
+\contentsline {subsection}{\numberline {1.1.5}Station}{6}{}%
+\contentsline {subsection}{\numberline {1.1.6}Shift}{7}{}%
+\contentsline {subsection}{\numberline {1.1.7}Unit}{7}{}%
+\contentsline {subsection}{\numberline {1.1.8}Vehicle}{7}{}%
+\contentsline {subsection}{\numberline {1.1.9}EMD Complaint}{7}{}%
+\contentsline {subsection}{\numberline {1.1.10}EMD Card Number}{7}{}%
+\contentsline {subsection}{\numberline {1.1.11}Requested By}{7}{}%
+\contentsline {section}{\numberline {1.2}Scene}{7}{}%
+\contentsline {subsection}{\numberline {1.2.1}Predefined\slash Address}{7}{}%
+\contentsline {subsection}{\numberline {1.2.2}Location Type}{8}{}%
+\contentsline {subsection}{\numberline {1.2.3}Address}{8}{}%
+\contentsline {subsection}{\numberline {1.2.4}Additional Address}{8}{}%
+\contentsline {subsection}{\numberline {1.2.5}Apt\slash Suite\slash Room}{8}{}%
+\contentsline {subsection}{\numberline {1.2.6}Latitude\slash Longitude}{8}{}%
+\contentsline {subsection}{\numberline {1.2.7}Zone}{8}{}%
+\contentsline {subsection}{\numberline {1.2.8}Mass Casualty}{8}{}%
+\contentsline {section}{\numberline {1.3}Personnel}{9}{}%
+\contentsline {subsection}{\numberline {1.3.1}Lead\slash Driver\slash Other}{9}{}%
+\contentsline {subsection}{\numberline {1.3.2}Personal Protective Equipment}{9}{}%
+\contentsline {subsection}{\numberline {1.3.3}Actionable Buttons}{9}{}%
+\contentsline {section}{\numberline {1.4}Disposition}{9}{}%
+\contentsline {subsection}{\numberline {1.4.1}Dispositions}{9}{}%
+\contentsline {subsection}{\numberline {1.4.2}Transport Due To}{9}{}%
+\contentsline {subsection}{\numberline {1.4.3}Alternative Disposition Offered?}{9}{}%
+\contentsline {section}{\numberline {1.5}Destination}{9}{}%
+\contentsline {subsection}{\numberline {1.5.1}Destination Type}{10}{}%
+\contentsline {subsection}{\numberline {1.5.2}Destination Name}{10}{}%
+\contentsline {subsection}{\numberline {1.5.3}Address}{10}{}%
+\contentsline {subsection}{\numberline {1.5.4}Apt\slash Suite\slash Room}{10}{}%
+\contentsline {subsection}{\numberline {1.5.5}Zone}{10}{}%
+\contentsline {subsection}{\numberline {1.5.6}Chart Number}{10}{}%
+\contentsline {subsection}{\numberline {1.5.7}Patient Number}{10}{}%
+\contentsline {subsection}{\numberline {1.5.8}Actionable Buttons}{11}{}%
+\contentsline {section}{\numberline {1.6}Times}{11}{}%
+\contentsline {subsection}{\numberline {1.6.1}PSAP Call}{11}{}%
+\contentsline {subsection}{\numberline {1.6.2}Dispatch Notified}{11}{}%
+\contentsline {subsection}{\numberline {1.6.3}Call Received}{11}{}%
+\contentsline {subsection}{\numberline {1.6.4}Dispatched}{11}{}%
+\contentsline {subsection}{\numberline {1.6.5}En Route}{11}{}%
+\contentsline {subsection}{\numberline {1.6.6}Initial Responder on Scene}{11}{}%
+\contentsline {subsection}{\numberline {1.6.7}On Scene}{12}{}%
+\contentsline {subsection}{\numberline {1.6.8}At Patient}{12}{}%
+\contentsline {subsection}{\numberline {1.6.9}Depart Scene}{12}{}%
+\contentsline {subsection}{\numberline {1.6.10}At Destination}{12}{}%
+\contentsline {subsection}{\numberline {1.6.11}Call Closed}{12}{}%
+\contentsline {subsection}{\numberline {1.6.12}Dispatch Delays}{12}{}%
+\contentsline {subsection}{\numberline {1.6.13}Response Delays}{12}{}%
+\contentsline {subsection}{\numberline {1.6.14}Scene Delays}{13}{}%
+\contentsline {subsection}{\numberline {1.6.15}Transport Delays}{13}{}%
+\contentsline {subsection}{\numberline {1.6.16}Turn Around Delays}{13}{}%
+\contentsline {section}{\numberline {1.7}Mileage}{13}{}%
+\contentsline {subsection}{\numberline {1.7.1}Scene}{13}{}%
+\contentsline {subsection}{\numberline {1.7.2}Destination}{13}{}%
+\contentsline {subsection}{\numberline {1.7.3}Actionable Buttons}{13}{}%
+\contentsline {section}{\numberline {1.8}Additional Agencies}{13}{}%
+\contentsline {subsection}{\numberline {1.8.1}First Agency to Provide Patient Care}{13}{}%
+\contentsline {subsection}{\numberline {1.8.2}Additional Responders}{14}{}%
+\contentsline {subsection}{\numberline {1.8.3}Additional Comments}{14}{}%
+\contentsline {chapter}{\numberline {2}Patient Tab}{15}{}%
+\contentsline {section}{\numberline {2.1}Demographics}{15}{}%
+\contentsline {subsection}{\numberline {2.1.1}First Name}{15}{}%
+\contentsline {subsection}{\numberline {2.1.2}Middle Name}{15}{}%
+\contentsline {subsection}{\numberline {2.1.3}Last Name}{15}{}%
+\contentsline {subsection}{\numberline {2.1.4}Social Security Number}{15}{}%
+\contentsline {subsection}{\numberline {2.1.5}Gender}{15}{}%
+\contentsline {subsection}{\numberline {2.1.6}Date of Birth}{15}{}%
+\contentsline {subsection}{\numberline {2.1.7}Age}{15}{}%
+\contentsline {subsection}{\numberline {2.1.8}Weight}{15}{}%
+\contentsline {subsection}{\numberline {2.1.9}Race}{15}{}%
+\contentsline {subsection}{\numberline {2.1.10}Ethnicity}{15}{}%
+\contentsline {subsection}{\numberline {2.1.11}Actionable Buttons}{15}{}%
+\contentsline {section}{\numberline {2.2}Contact}{15}{}%
+\contentsline {subsection}{\numberline {2.2.1}}{15}{}%
